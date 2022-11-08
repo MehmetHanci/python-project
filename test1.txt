@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-bu bir çalışma örneğidir, deneme örneğidir
-=======
-test denemeleri
->>>>>>> 7c262edbdc29805e6019d9f198fb82035b9f2ec1
